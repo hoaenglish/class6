@@ -2,18 +2,6 @@
   "title": "Học phí Lớp Anh 6 (08/2025)",
   "students": [
     {
-      "name": "Hải Đăng",
-      "class": "6A",
-      "fee": 0,
-      "info": "6AHaiDang",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6AHaiDang&accountName=CHU%20DUC%20THANH",
-      "bank": {
-        "id": "MB",
-        "account": "0989311300",
-        "name": "CHU DUC THANH"
-      }
-    },
-    {
       "name": "Bảo Anh",
       "class": "6A1",
       "fee": 0,
@@ -55,30 +43,6 @@
       "fee": 0,
       "info": "6A1ThaoAnh",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6A1ThaoAnh&accountName=CHU%20DUC%20THANH",
-      "bank": {
-        "id": "MB",
-        "account": "0989311300",
-        "name": "CHU DUC THANH"
-      }
-    },
-    {
-      "name": "Thuỳ Chi",
-      "class": "6A1",
-      "fee": 0,
-      "info": "6A1ThuyChi",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6A1ThuyChi&accountName=CHU%20DUC%20THANH",
-      "bank": {
-        "id": "MB",
-        "account": "0989311300",
-        "name": "CHU DUC THANH"
-      }
-    },
-    {
-      "name": "Thuỳ Linh",
-      "class": "6A1",
-      "fee": 0,
-      "info": "6A1ThuyLinh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6A1ThuyLinh&accountName=CHU%20DUC%20THANH",
       "bank": {
         "id": "MB",
         "account": "0989311300",
@@ -247,18 +211,6 @@
       "fee": 0,
       "info": "6A5ChiDung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6A5ChiDung&accountName=CHU%20DUC%20THANH",
-      "bank": {
-        "id": "MB",
-        "account": "0989311300",
-        "name": "CHU DUC THANH"
-      }
-    },
-    {
-      "name": "Diệu Anh",
-      "class": "6A5",
-      "fee": 0,
-      "info": "6A5DieuAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=0&addInfo=6A5DieuAnh&accountName=CHU%20DUC%20THANH",
       "bank": {
         "id": "MB",
         "account": "0989311300",
