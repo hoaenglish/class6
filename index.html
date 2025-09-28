@@ -96,7 +96,7 @@
       const sheetName = "Lớp Anh 6"; // mặc định
       const data = await loadData(sheetName);
 
-      document.getElementById("title").innerText = data[0]?.title || `Học phí ${sheetName}`;
+      document.getElementById("title").innerText = data[0]?.title || `Học phí Tháng 9 ${sheetName}`;
       const select = document.getElementById("studentSelect");
 
       data.forEach((s, i) => {
@@ -157,3 +157,4 @@
   </script>
 </body>
 </html>
+
