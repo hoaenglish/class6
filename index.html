@@ -81,9 +81,9 @@
   <script>
     const files = {
       "Lớp Anh 6": "Lớp Anh 6.json",
-      "Lớp Anh 8.1": "LopAnh81.json",
-      "Lớp Anh 8.2": "LopAnh82.json",
-      "Lớp Anh 9": "LopAnh9.json"
+      "Lớp Anh 8.1": "Lớp Anh 8.1.json",
+      "Lớp Anh 8.2": "Lớp Anh 8.2.json",
+      "Lớp Anh 9": "Lớp Anh 9.json"
     };
 
     async function loadData(sheetName) {
@@ -96,10 +96,12 @@
       const sheetName = "Lớp Anh 6"; // mặc định
       const data = await loadData(sheetName);
 
-      document.getElementById("title").innerText = data[0]?.title || `Học phí ${sheetName} tháng 09/2025`;
+      //document.getElementById("title").innerText = data[0]?.title || `Học phí Tháng 9 ${sheetName}`;
+      document.getElementById("title").innerText = data.title || "Học phí";
+
       const select = document.getElementById("studentSelect");
 
-      data.forEach((s, i) => {
+      data.students.forEach((s, i) => {
         const opt = document.createElement("option");
         opt.value = i;
         opt.textContent = `${s.class} - ${s.name}`;
@@ -157,6 +159,3 @@
   </script>
 </body>
 </html>
-
-
-
