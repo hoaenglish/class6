@@ -1,8 +1,8 @@
 {
-  "title": "H?c ph? L?p Anh 6 (08/2025)",
+  "title": "Học phí Lớp Anh 6 (08/2025)",
   "students": [
     {
-      "name": "H?i ??ng",
+      "name": "Hải Đăng",
       "class": "6A",
       "fee": 0,
       "info": "6AHaiDang",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "name": "B?o Anh",
+      "name": "Bảo Anh",
       "class": "6A1",
       "fee": 0,
       "info": "6A1BaoAnh",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "Minh Tr?",
+      "name": "Minh Trí",
       "class": "6A1",
       "fee": 0,
       "info": "6A1MinhTri",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "name": "Ph?m Minh",
+      "name": "Phạm Minh",
       "class": "6A1",
       "fee": 0,
       "info": "6A1PhamMinh",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "name": "Th?o Anh",
+      "name": "Thảo Anh",
       "class": "6A1",
       "fee": 0,
       "info": "6A1ThaoAnh",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "name": "Thu? Chi",
+      "name": "Thuỳ Chi",
       "class": "6A1",
       "fee": 0,
       "info": "6A1ThuyChi",
@@ -74,7 +74,7 @@
       }
     },
     {
-      "name": "Thu? Linh",
+      "name": "Thuỳ Linh",
       "class": "6A1",
       "fee": 0,
       "info": "6A1ThuyLinh",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "Tu?n Ki?t",
+      "name": "Tuấn Kiệt",
       "class": "6A1",
       "fee": 0,
       "info": "6A1TuanKiet",
@@ -98,7 +98,7 @@
       }
     },
     {
-      "name": "??ng Khoa",
+      "name": "Đăng Khoa",
       "class": "6A2",
       "fee": 0,
       "info": "6A2DangKhoa",
@@ -110,7 +110,7 @@
       }
     },
     {
-      "name": "Duy Kh?nh",
+      "name": "Duy Khánh",
       "class": "6A2",
       "fee": 0,
       "info": "6A2DuyKhanh",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "name": "Nh?t Minh",
+      "name": "Nhật Minh",
       "class": "6A2",
       "fee": 0,
       "info": "6A2NhatMinh",
@@ -134,7 +134,7 @@
       }
     },
     {
-      "name": "Nguy?t ?nh",
+      "name": "Nguyệt Ánh",
       "class": "6A3",
       "fee": 0,
       "info": "6A3NguyetAnh",
@@ -146,7 +146,7 @@
       }
     },
     {
-      "name": "B?o Nam",
+      "name": "Bảo Nam",
       "class": "6A4",
       "fee": 0,
       "info": "6A4BaoNam",
@@ -158,7 +158,7 @@
       }
     },
     {
-      "name": "B?nh Minh",
+      "name": "Bình Minh",
       "class": "6A4",
       "fee": 0,
       "info": "6A4BinhMinh",
@@ -170,7 +170,7 @@
       }
     },
     {
-      "name": "??ng Gia B?o",
+      "name": "Đặng Gia Bảo",
       "class": "6A4",
       "fee": 0,
       "info": "6A4DangGiaBao",
@@ -182,7 +182,7 @@
       }
     },
     {
-      "name": "Huy?n Anh",
+      "name": "Huyền Anh",
       "class": "6A4",
       "fee": 0,
       "info": "6A4HuyenAnh",
@@ -194,7 +194,7 @@
       }
     },
     {
-      "name": "Minh Tu?n",
+      "name": "Minh Tuấn",
       "class": "6A4",
       "fee": 0,
       "info": "6A4MinhTuan",
@@ -206,7 +206,7 @@
       }
     },
     {
-      "name": "Thanh H?ng",
+      "name": "Thanh Hằng",
       "class": "6A4",
       "fee": 0,
       "info": "6A4ThanhHang",
@@ -218,7 +218,7 @@
       }
     },
     {
-      "name": "Tr?n B?o",
+      "name": "Trần Bảo",
       "class": "6A4",
       "fee": 0,
       "info": "6A4TranBao",
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "B?o Tr?m",
+      "name": "Bảo Trâm",
       "class": "6A5",
       "fee": 0,
       "info": "6A5BaoTram",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "name": "Ch? D?ng",
+      "name": "Chí Dũng",
       "class": "6A5",
       "fee": 0,
       "info": "6A5ChiDung",
@@ -254,7 +254,7 @@
       }
     },
     {
-      "name": "Di?u Anh",
+      "name": "Diệu Anh",
       "class": "6A5",
       "fee": 0,
       "info": "6A5DieuAnh",
@@ -266,7 +266,7 @@
       }
     },
     {
-      "name": "??c M?nh",
+      "name": "Đức Mạnh",
       "class": "6A5",
       "fee": 0,
       "info": "6A5DucManh",
@@ -278,7 +278,7 @@
       }
     },
     {
-      "name": "Kh?nh Chi",
+      "name": "Khánh Chi",
       "class": "6A5",
       "fee": 0,
       "info": "6A5KhanhChi",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "name": "V? Ki?t",
+      "name": "Vũ Kiệt",
       "class": "6A5",
       "fee": 0,
       "info": "6A5VuKiet",
@@ -302,7 +302,7 @@
       }
     },
     {
-      "name": "??c Kh??ng",
+      "name": "Đức Khương",
       "class": "6A6",
       "fee": 0,
       "info": "6A6DucKhuong",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "name": "Tu?n Anh",
+      "name": "Tuấn Anh",
       "class": "6A6",
       "fee": 0,
       "info": "6A6TuanAnh",
@@ -326,7 +326,7 @@
       }
     },
     {
-      "name": "Gia Ki?t",
+      "name": "Gia Kiệt",
       "class": "6A7",
       "fee": 0,
       "info": "6A7GiaKiet",
