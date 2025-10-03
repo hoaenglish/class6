@@ -9,13 +9,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Duy Khánh",
-      "class": "6A2",
-      "fee": 240000,
-      "info": "6A2DuyKhanh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DuyKhanh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Bảo Nam",
       "class": "6A4",
       "fee": 240000,
