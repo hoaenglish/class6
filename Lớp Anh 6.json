@@ -2,25 +2,11 @@
   "title": "Học phí Lớp Anh 6 (10/2025)",
   "students": [
     {
-      "name": "Minh Trí",
-      "class": "6A1",
-      "fee": 240000,
-      "info": "6A1MinhTri",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A1MinhTri&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Phạm Minh",
       "class": "6A1",
       "fee": 240000,
       "info": "6A1PhamMinh",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A1PhamMinh&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Tuấn Kiệt",
-      "class": "6A1",
-      "fee": 240000,
-      "info": "6A1TuanKiet",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A1TuanKiet&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Đăng Khoa",
