@@ -63,13 +63,6 @@
       "fee": 240000,
       "info": "6A6TuanAnh",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A6TuanAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Gia Kiệt",
-      "class": "6A7",
-      "fee": 240000,
-      "info": "6A7GiaKiet",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A7GiaKiet&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
