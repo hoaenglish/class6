@@ -2,13 +2,6 @@
   "title": "Học phí Lớp Anh 6 (10/2025)",
   "students": [
     {
-      "name": "Bảo Anh",
-      "class": "6A1",
-      "fee": 180000,
-      "info": "6A1BaoAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A1BaoAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Minh Trí",
       "class": "6A1",
       "fee": 240000,
@@ -35,13 +28,6 @@
       "fee": 240000,
       "info": "6A2DangKhoa",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Duy Khánh",
-      "class": "6A2",
-      "fee": 240000,
-      "info": "6A2DuyKhanh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DuyKhanh&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Bảo Nam",
@@ -105,13 +91,6 @@
       "fee": 240000,
       "info": "6A5KhanhChi",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A5KhanhChi&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Đức Khương",
-      "class": "6A6",
-      "fee": 240000,
-      "info": "6A6DucKhuong",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A6DucKhuong&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Tuấn Anh",
