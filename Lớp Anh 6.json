@@ -2,13 +2,6 @@
   "title": "Học phí Lớp Anh 6 (10/2025)",
   "students": [
     {
-      "name": "Đăng Khoa",
-      "class": "6A2",
-      "fee": 240000,
-      "info": "6A2DangKhoa",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Bình Minh",
       "class": "6A4",
       "fee": 240000,
