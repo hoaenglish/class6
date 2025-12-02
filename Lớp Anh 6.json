@@ -2,32 +2,11 @@
   "title": "Học phí Lớp Anh 6 (11/2025)",
   "students": [
     {
-      "name": "Bảo Anh",
-      "class": "6A1",
-      "fee": 180000,
-      "info": "6A1BaoAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A1BaoAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Minh Trí",
       "class": "6A1",
       "fee": 180000,
       "info": "6A1MinhTri",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A1MinhTri&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Phạm Minh",
-      "class": "6A1",
-      "fee": 180000,
-      "info": "6A1PhamMinh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A1PhamMinh&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Thảo Anh",
-      "class": "6A1",
-      "fee": 180000,
-      "info": "6A1ThaoAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A1ThaoAnh&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Tuấn Kiệt",
@@ -44,32 +23,11 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Duy Khánh",
-      "class": "6A2",
-      "fee": 180000,
-      "info": "6A2DuyKhanh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A2DuyKhanh&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Nguyệt Ánh",
-      "class": "6A3",
-      "fee": 180000,
-      "info": "6A3NguyetAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A3NguyetAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Lã Dũng",
       "class": "6A3",
       "fee": 165000,
       "info": "6A3LaDung",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=165000&addInfo=6A3LaDung&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Bảo Nam",
-      "class": "6A4",
-      "fee": 120000,
-      "info": "6A4BaoNam",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=6A4BaoNam&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Bình Minh",
@@ -86,32 +44,11 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A4DangGiaBao&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Huyền Anh",
-      "class": "6A4",
-      "fee": 60000,
-      "info": "6A4HuyenAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=6A4HuyenAnh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Thanh Hằng",
       "class": "6A4",
       "fee": 180000,
       "info": "6A4ThanhHang",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A4ThanhHang&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Trần Bảo",
-      "class": "6A4",
-      "fee": 60000,
-      "info": "6A4TranBao",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=6A4TranBao&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Bảo Trâm",
-      "class": "6A5",
-      "fee": 180000,
-      "info": "6A5BaoTram",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A5BaoTram&accountName=CHU%20DUC%20THANH"
     },
     {
       "name": "Chí Dũng",
@@ -135,13 +72,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A5KhanhChi&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Vũ Kiệt",
-      "class": "6A5",
-      "fee": 120000,
-      "info": "6A5VuKiet",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=6A5VuKiet&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Đức Khương",
       "class": "6A6",
       "fee": 180000,
@@ -161,13 +91,6 @@
       "fee": 180000,
       "info": "6A7GiaKiet",
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A7GiaKiet&accountName=CHU%20DUC%20THANH"
-    },
-    {
-      "name": "Nhật Minh",
-      "class": "6A7",
-      "fee": 180000,
-      "info": "6A7NhatMinh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A7NhatMinh&accountName=CHU%20DUC%20THANH"
     }
   ]
 }
