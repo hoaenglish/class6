@@ -1,12 +1,4 @@
 {
   "title": "Học phí Lớp Anh 6 (11/2025)",
-  "students": [
-    {
-      "name": "Đặng Gia Bảo",
-      "class": "6A4",
-      "fee": 180000,
-      "info": "6A4DangGiaBao",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A4DangGiaBao&accountName=CHU%20DUC%20THANH"
-    }
-  ]
+  "students": []
 }
