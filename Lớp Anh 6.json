@@ -1,13 +1,6 @@
 {
-  "title": "Học phí Lớp Anh 6 (11/2025)",
+  "title": "Học phí Lớp Anh 6 (12/2025)",
   "students": [
-    {
-      "name": "Bảo Anh",
-      "class": "6A1",
-      "fee": 240000,
-      "info": "6A1BaoAnh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A1BaoAnh&accountName=CHU%20DUC%20THANH"
-    },
     {
       "name": "Phạm Minh",
       "class": "6A1",
