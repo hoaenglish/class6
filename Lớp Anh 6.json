@@ -16,13 +16,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=120000&addInfo=6A1TuanKiet&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Đăng Khoa",
-      "class": "6A2",
-      "fee": 180000,
-      "info": "6A2DangKhoa",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Lã Dũng",
       "class": "6A3",
       "fee": 240000,
