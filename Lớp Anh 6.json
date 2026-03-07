@@ -44,13 +44,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=6A3LaDung&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Minh Tuấn",
-      "class": "6A4",
-      "fee": 60000,
-      "info": "6A4MinhTuan",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=60000&addInfo=6A4MinhTuan&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Chí Dũng",
       "class": "6A5",
       "fee": 60000,
