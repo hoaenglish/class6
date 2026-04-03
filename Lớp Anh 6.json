@@ -44,13 +44,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=420000&addInfo=6A5DucManh&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Khánh Chi",
-      "class": "6A5",
-      "fee": 180000,
-      "info": "6A5KhanhChi",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A5KhanhChi&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Tuấn Anh",
       "class": "6A6",
       "fee": 300000,
