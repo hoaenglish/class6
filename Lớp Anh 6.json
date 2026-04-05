@@ -16,13 +16,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A2DangKhoa&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Bình Minh",
-      "class": "6A4",
-      "fee": 240000,
-      "info": "6A4BinhMinh",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A4BinhMinh&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Đặng Gia Bảo",
       "class": "6A4",
       "fee": 240000,
