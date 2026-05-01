@@ -58,13 +58,6 @@
       "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=180000&addInfo=6A4ThanhHang&accountName=CHU%20DUC%20THANH"
     },
     {
-      "name": "Bảo Trâm",
-      "class": "6A5",
-      "fee": 240000,
-      "info": "6A5BaoTram",
-      "qr": "https://img.vietqr.io/image/MB-0989311300-compact2.png?amount=240000&addInfo=6A5BaoTram&accountName=CHU%20DUC%20THANH"
-    },
-    {
       "name": "Nguyễn Dũng",
       "class": "6A5",
       "fee": 240000,
